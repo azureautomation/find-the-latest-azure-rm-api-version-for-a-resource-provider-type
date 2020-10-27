@@ -1,0 +1,20 @@
+{
+    "Author": "Ben Wilkinson",
+    "ContentSize": 2888,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/find-the-latest-azure-rm-api-version-for-a-resource-provider-type/master/Find-AzureRMAPIVersion.ps1",
+    "DownloadCount": 739,
+    "Id": "Find-the-latest-Azure-RM-e1deeb39",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 364,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-1-20T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "JavaScript",
+    "Summary": "When working with the Azure Resource Manager API, it is useful to know the API versions.Often if you want to implement a new feature, you need to know the API version to call.Resource Group Templates are one particular place where you will often use the API Version referencee.g.",
+    "Title": "Find the latest Azure RM API Version for a resource provider type",
+    "UpdatedDate": "2018-1-20T00:00:00",
+    "Url": "https://github.com/azureautomation/find-the-latest-azure-rm-api-version-for-a-resource-provider-type",
+    "UserTags": "Azure Resource Manager, API version"
+}
